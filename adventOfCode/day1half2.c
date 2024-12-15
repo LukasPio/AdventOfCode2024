@@ -4,7 +4,7 @@
 
 int main()
 {
-    FILE *file = fopen("adventOfCode/inputs/day1half2.txt", "r");
+    FILE *file = fopen("adventOfCode/inputs/day1.txt", "r");
 
     char line[14];
 
