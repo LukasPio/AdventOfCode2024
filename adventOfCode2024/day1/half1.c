@@ -8,7 +8,7 @@ int comp(const void *a, const void *b) {
 
 int main()
 {
-    FILE *file = fopen("adventOfCode/inputs/day1.txt", "r");
+    FILE *file = fopen("adventOfCode2024/inputs/day1.txt", "r");
 
     char line[14];
 
